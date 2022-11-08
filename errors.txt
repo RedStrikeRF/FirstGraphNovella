@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 59: expected statement.
+    переход на новую сцену
+                          ^
+
+Ren'Py Version: Ren'Py 7.5.3.22090809
+Mon Nov  7 21:16:10 2022
